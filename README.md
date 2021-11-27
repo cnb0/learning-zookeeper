@@ -65,7 +65,8 @@ Zookeeper Role in a Kafka Cluster​
           Zookeeper Quorum Sizing​
           Zookeeper Configuration
 
-Hands-On: Zookeeper  Setup​
+Hands-On: Zookeeper  Setup
+
          Single Zookeeper Machine Setup​
          Zookeeper Service Setup​
          Using the Zookeeper Command Line Interface (CLI)​
